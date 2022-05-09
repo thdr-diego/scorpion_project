@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Essencia Zomo Gum",
+        "description": "A explosão do doce frescor das famosas balinhas de goma e a suavidade da hortelã. Muito delicioso para quem gosta de fumos doces e suaves.",
+        "price": 15.00,
+        "image": "zomo-gum.jfif"
+    },
+    {
+        "id": 2,
+        "name": "Love 66",
+        "description": "Essência premium para Narguile, deliciosamente aromatizada com mix de melão, menta e melancia.",
+        "price": 15.00,
+        "image": ".jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mangueira Anti-chamas",
+        "description": "Mangueira para narguile em silicone antichamas",
+        "price": 78.50,
+        "image": ".jpg"
+    },
+    {
+        "id": 4,
+        "name": "Narguile Anak",
+        "description": "A marca Volkano entrega para os narguileiros alta qualidade em seus narguiles e o Anak é o seu único narguile completo dentro de sua linha. Acompanhado de Base, Mangueira, Piteira de Alumínio e prato preso por seu pino de encaixe de queimador. Para deixar o kit ainda mais completo e proporcionar ótimas sessões ele também vem com um queimador OHT e Tapete protetor Volkano Hookah. Atenção: As tonalidades das cores podem variar de lotes para lotes durante a produção",
+        "price": 650.90,
+        "image": ".jpg"
+    },
+    {
+        "id": 5,
+        "name": "Rosh de cerâmica",
+        "description": "Recipiente para colocar essência.",
+        "price": 12.99,
+        "image": ".jpg"
+    },
+    {
+        "id": 6,
+        "name": "Pegador de carvão",
+        "description": "Produto para mover os carvões, com facilidade sem risco de se queimar",
+        "price": 15.99,
+        "image": ".jpg"
+    },
+    {
+        "id": 7,
+        "name": "Forninho para narguile",
+        "description": "Forninho para aquecimento do carvão",
+        "price": 20.99,
+        "image": ".jpg"
+    },
+    {
+        "id": 8,
+        "name": "pacote de carvão Fumax",
+        "description": "pacote contendo 1kg de carvão para narquile",
+        "price": 35.99,
+        "image": ".jpg"
+    },
+    {
+        "id": 9,
+        "name": "Pacote de folhas de alumínio",
+        "description": "pacote contendo 50 folhas de alumínio para tampar seu rosh",
+        "price": 10.99,
+        "image": ".jpg"
+    }
+]
